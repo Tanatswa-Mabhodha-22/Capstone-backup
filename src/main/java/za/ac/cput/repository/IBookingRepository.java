@@ -5,19 +5,19 @@ import za.ac.cput.domain.Booking;
 import java.util.ArrayList;
 import java.util.List;
 
-public class IBooking implements BookingRepository{
+public class IBookingRepository implements BookingRepository{
 
-    private static IBooking repository = null;
+    private static IBookingRepository repository = null;
 
     private List<Booking> bookingList;
 
-    private IBooking() {
+    private IBookingRepository() {
         bookingList = new ArrayList<>();
     }
 
-    public static IBooking getRepository() {
+    public static IBookingRepository getRepository() {
         if (repository == null) {
-            repository = new IBooking();
+            repository = new IBookingRepository();
         }
         return repository;
     }

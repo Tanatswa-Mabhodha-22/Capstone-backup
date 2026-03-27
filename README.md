@@ -64,7 +64,11 @@ src/
 ---
 
 ## Group Members Github Links
-Tanatswa Mabhodha - 
+Tanatswa Mabhodha - https://github.com/Tanatswa-Mabhodha-22/Capstone-.git
+Thandeka Chantal Malande - https://github.com/ThandekaChantal
+Stephanie Lewu - https://github.com/stephanie-lewu/Capstone-
+Malwandla Blessing Mahori - https://github.com/MalBl3ssing/Capstone-.git
+Owen Jnr Makene - 
 
 ---
 

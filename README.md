@@ -149,6 +149,29 @@ src/
 
 ---
 
+## Contributing Guidelines
+### Pull Request Process
+- Create a branch using your student number
+- Implement your assigned feature with tests (TDD)
+- Ensure all tests pass
+- Update documentation where necessary
+- Create a Pull Request to the main branch
+- Request review from the team leader
+- Address any review comments
+
+---
+
+### Merge after approval
+
+#### Code Review Checklist
+- Follows Builder Pattern
+- Includes TDD tests
+- Correct package structure (domain, factory, repository)
+- Author comments included in code
+- No merge conflicts
+- All tests passing
+
+
 ## Technologies Used
 - Java
 - Maven

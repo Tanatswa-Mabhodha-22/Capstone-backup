@@ -43,6 +43,7 @@ public class BookingRepositoryTest {
         assertNotNull(readBooking);
         System.out.println(readBooking);
     }
+    //UPDATE
      @Test
     public void update(){
     Booking booking = BookingFactory.buildBooking(
